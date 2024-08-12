@@ -1,0 +1,80 @@
+2024-08-11 20:24:55,559 INFO t.UserTests [main] ******************** Start og logging ********************
+2024-08-11 20:24:55,561 INFO t.UserTests [main] ******************** Creating a new user ********************
+2024-08-11 20:24:57,673 INFO t.UserTests [main] ******************** User is created ********************
+2024-08-11 20:24:57,683 INFO t.UserTests [main] ******************** Reading user info ********************
+2024-08-11 20:24:58,782 INFO t.UserTests [main] ******************** User info is displayed ********************
+2024-08-11 20:24:58,784 INFO t.UserTests [main] ******************** Updating a user ********************
+2024-08-11 20:25:00,149 INFO t.UserTests [main] ******************** Reading user info ********************
+2024-08-11 20:25:01,235 INFO t.UserTests [main] ******************** User info is displayed ********************
+2024-08-11 20:25:01,235 INFO t.UserTests [main] ******************** User updated ********************
+2024-08-11 20:25:01,237 INFO t.UserTests [main] ******************** Deleting a user ********************
+2024-08-11 20:25:02,320 INFO t.UserTests [main] ******************** User deleted ********************
+2024-08-11 20:25:02,320 INFO t.UserTests [main] ******************** End Of Logger ********************
+2024-08-11 20:25:25,831 INFO t.UserTests [main] ******************** Start og logging ********************
+2024-08-11 20:25:25,833 INFO t.UserTests [main] ******************** Creating a new user ********************
+2024-08-11 20:25:27,904 INFO t.UserTests [main] ******************** User is created ********************
+2024-08-11 20:25:27,913 INFO t.UserTests [main] ******************** Reading user info ********************
+2024-08-11 20:25:28,903 INFO t.UserTests [main] ******************** User info is displayed ********************
+2024-08-11 20:25:28,904 INFO t.UserTests [main] ******************** Updating a user ********************
+2024-08-11 20:25:30,287 INFO t.UserTests [main] ******************** Reading user info ********************
+2024-08-11 20:25:31,367 INFO t.UserTests [main] ******************** User info is displayed ********************
+2024-08-11 20:25:31,368 INFO t.UserTests [main] ******************** User updated ********************
+2024-08-11 20:25:31,369 INFO t.UserTests [main] ******************** Deleting a user ********************
+2024-08-11 20:25:32,395 INFO t.UserTests [main] ******************** User deleted ********************
+2024-08-11 20:25:32,395 INFO t.UserTests [main] ******************** End Of Logger ********************
+2024-08-12 13:07:19,761 INFO t.UserTests2 [main] **********************************************************
+2024-08-12 13:07:19,763 INFO t.UserTests2 [main] ******************** Start og logging ********************
+2024-08-12 13:07:19,763 INFO t.UserTests2 [main] ******************** Creating a new user ********************
+2024-08-12 13:07:21,819 INFO t.UserTests2 [main] ******************** User is created ********************
+2024-08-12 13:07:21,830 INFO t.UserTests2 [main] ******************** Reading user info ********************
+2024-08-12 13:07:22,882 INFO t.UserTests2 [main] ******************** User info is displayed ********************
+2024-08-12 13:07:22,884 INFO t.UserTests2 [main] ******************** Updating a user ********************
+2024-08-12 13:07:23,926 INFO t.UserTests2 [main] ******************** Reading user info ********************
+2024-08-12 13:07:24,960 INFO t.UserTests2 [main] ******************** User info is displayed ********************
+2024-08-12 13:07:24,960 INFO t.UserTests2 [main] ******************** User updated ********************
+2024-08-12 13:07:24,961 INFO t.UserTests2 [main] ******************** Deleting a user ********************
+2024-08-12 13:07:25,954 INFO t.UserTests2 [main] ******************** User deleted ********************
+2024-08-12 13:07:25,955 INFO t.UserTests2 [main] ******************** End Of Logger ********************
+2024-08-12 13:07:25,955 INFO t.UserTests2 [main] **********************************************************
+2024-08-12 13:33:14,081 INFO t.UserTests [main] **********************************************************
+2024-08-12 13:33:14,083 INFO t.UserTests [main] ******************** Start og logging ********************
+2024-08-12 13:33:14,083 INFO t.UserTests [main] ******************** Creating a new user ********************
+2024-08-12 13:33:16,144 INFO t.UserTests [main] ******************** User is created ********************
+2024-08-12 13:33:16,147 INFO t.UserTests [main] ******************** Reading user info ********************
+2024-08-12 13:33:17,196 INFO t.UserTests [main] ******************** User info is displayed ********************
+2024-08-12 13:33:17,197 INFO t.UserTests [main] ******************** Updating a user ********************
+2024-08-12 13:33:18,233 INFO t.UserTests [main] ******************** Reading user info ********************
+2024-08-12 13:33:19,213 INFO t.UserTests [main] ******************** User info is displayed ********************
+2024-08-12 13:33:19,214 INFO t.UserTests [main] ******************** User updated ********************
+2024-08-12 13:33:19,215 INFO t.UserTests [main] ******************** Deleting a user ********************
+2024-08-12 13:33:20,230 INFO t.UserTests [main] ******************** User deleted ********************
+2024-08-12 13:33:20,231 INFO t.UserTests [main] ******************** End Of Logger ********************
+2024-08-12 13:33:20,231 INFO t.UserTests [main] **********************************************************
+2024-08-12 13:53:14,016 INFO t.UserTests2 [main] **********************************************************
+2024-08-12 13:53:14,021 INFO t.UserTests2 [main] ******************** Start og logging ********************
+2024-08-12 13:53:14,021 INFO t.UserTests2 [main] ******************** Creating a new user ********************
+2024-08-12 13:53:17,157 INFO t.UserTests2 [main] ******************** User is created ********************
+2024-08-12 13:53:17,173 INFO t.UserTests2 [main] ******************** Reading user info ********************
+2024-08-12 13:53:18,212 INFO t.UserTests2 [main] ******************** User info is displayed ********************
+2024-08-12 13:53:18,213 INFO t.UserTests2 [main] ******************** Updating a user ********************
+2024-08-12 13:53:19,188 INFO t.UserTests2 [main] ******************** Reading user info ********************
+2024-08-12 13:53:20,313 INFO t.UserTests2 [main] ******************** User info is displayed ********************
+2024-08-12 13:53:20,314 INFO t.UserTests2 [main] ******************** User updated ********************
+2024-08-12 13:53:20,315 INFO t.UserTests2 [main] ******************** Deleting a user ********************
+2024-08-12 13:53:21,302 INFO t.UserTests2 [main] ******************** User deleted ********************
+2024-08-12 13:53:21,302 INFO t.UserTests2 [main] ******************** End Of Logger ********************
+2024-08-12 13:53:21,302 INFO t.UserTests2 [main] **********************************************************
+2024-08-12 14:13:41,206 INFO t.UserTests2 [main] **********************************************************
+2024-08-12 14:13:41,208 INFO t.UserTests2 [main] ******************** Start og logging ********************
+2024-08-12 14:13:41,208 INFO t.UserTests2 [main] ******************** Creating a new user ********************
+2024-08-12 14:13:43,254 INFO t.UserTests2 [main] ******************** User is created ********************
+2024-08-12 14:13:43,266 INFO t.UserTests2 [main] ******************** Reading user info ********************
+2024-08-12 14:13:44,264 INFO t.UserTests2 [main] ******************** User info is displayed ********************
+2024-08-12 14:13:44,266 INFO t.UserTests2 [main] ******************** Updating a user ********************
+2024-08-12 14:13:45,255 INFO t.UserTests2 [main] ******************** Reading user info ********************
+2024-08-12 14:13:46,300 INFO t.UserTests2 [main] ******************** User info is displayed ********************
+2024-08-12 14:13:46,301 INFO t.UserTests2 [main] ******************** User updated ********************
+2024-08-12 14:13:46,303 INFO t.UserTests2 [main] ******************** Deleting a user ********************
+2024-08-12 14:13:47,321 INFO t.UserTests2 [main] ******************** User deleted ********************
+2024-08-12 14:13:47,321 INFO t.UserTests2 [main] ******************** End Of Logger ********************
+2024-08-12 14:13:47,321 INFO t.UserTests2 [main] **********************************************************
