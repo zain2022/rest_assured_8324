@@ -62,3 +62,6 @@ Working repo (Add command) -> Staging area -> Git repo (Commit command) -> Remot
 7. git remote add origin "https://github.com/zain2022/rest_assured_8324.git" -> will connect locat repo to the remote repo and this is one time command
 8. git push -u origin main -> push the code to the remote repo from local repo
 
+********************************************************** *********************** **********************************************************
+
+Start Jenkins: java -jar jenkins.war

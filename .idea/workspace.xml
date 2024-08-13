@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef30681d-e457-4327-bf5b-ba7b609be950" name="Changes" comment="" />
+    <list default="true" id="ef30681d-e457-4327-bf5b-ba7b609be950" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Test-Report-2024.08.12.14.13.40.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/endpoints/UserEndPoints2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/endpoints/UserEndPoints2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +55,7 @@
     "TestNG.UserTests.testUpdateUserByName.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/zain.abideen_venture/Downloads/VD Automation/Rest Assured Practice/rest_assured_8324/testData",
+    "last_opened_file_path": "C:/Users/zain.abideen_venture/Downloads/VD Automation",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -58,6 +64,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zain.abideen_venture\Downloads\VD Automation\Rest Assured Practice\rest_assured_8324\src\test\java\extra" />
       <recent name="C:\Users\zain.abideen_venture\Downloads\VD Automation\Rest Assured Practice\rest_assured_8324\testData" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">

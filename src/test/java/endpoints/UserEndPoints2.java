@@ -27,7 +27,7 @@ public class UserEndPoints2 {
                 .accept(ContentType.JSON)
                 .body(payload)
                 .when()
-                .post(post_url);
+                .get(post_url);
 
         return response;
     }
