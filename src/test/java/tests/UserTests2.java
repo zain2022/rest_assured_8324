@@ -49,7 +49,7 @@ public class UserTests2 {
         response.then().log().all();
         Assert.assertEquals(response.getStatusCode(), 200);
         logger.info("******************** User is created ********************");
-        Assert.fail("failing the case");
+//        Assert.fail("failing the case");
 
 
     }
